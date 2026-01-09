@@ -12,6 +12,12 @@ https://huggingface.co/
 
 # Click on models from the top
 
+# Show the models
+
+---------------------
+
+# Click on Tasks
+
 # Show the various categories of models
 
 # Explore models in Natural Language Processing
@@ -105,15 +111,28 @@ A dog wearing glasses
 
 # Scroll and show the options
 
+# Select "Image Editing"
+
+# Choose Qwen Image 2512
+
+# Upload
+
+horse.jpg
+
+# Edit the image
+
+Please add a rider to this horse
+
+# Show the result
+
+-----------------------------------
+
+
 # Under trending apps find
 
 Miragic-AI/Miragic-Virtual-Try-On
 
 Kwai-Kolors/Kolors-Virtual-Try-On
-
-# New apps
-
-zerogpu-aoti/wan2-2-fp8da-aoti-faster
 
 # Use one of the examples
 
